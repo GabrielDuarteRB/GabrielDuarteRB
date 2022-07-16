@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Python e Javascript
 - 📫 biel.dbastos@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/GabrielDuarteRB">
