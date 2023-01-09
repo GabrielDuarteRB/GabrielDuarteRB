@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel
 
-- 🌱 Estudando Python e Javascript
+- 🌱 Estudando PHP e Javascript
 - 📫 biel.dbastos@gmail.com
 
 <div align="center">
