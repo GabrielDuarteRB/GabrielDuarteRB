@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel
 
 - 🌱 Estudando PHP e Javascript
-- 📫 biel.dbastos@gmail.com
+- 📫 gabriel.drbastos@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielDuarteRB">
