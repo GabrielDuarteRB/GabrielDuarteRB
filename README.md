@@ -1,28 +1,30 @@
-<h1 align="center">Olá! Eu sou o Gabriel 👋</h1>
+<h1 align="center">Gabriel Bastos 👨‍💻</h1>
+<p align="center">
+  Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo
+</p>
 
-### 💻 Sobre mim
-- Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo.
-- Atualmente trabalhando com **PHP, MySQL, Laravel API e Vue.js**.
-- Interesse em **Arquitetura de Software e Desenvolvimento de Sistemas**.
-- Cursando **Sistemas de Informação**.
-- 📫 Entre em contato: [gabriel.drbastos@gmail.com](mailto:gabriel.drbastos@gmail.com).
-
+### 💻 Sobre Mim
+- 🎓 Cursando **Sistemas de Informação**
+- 💼 Atuando com **PHP, MySQL, Laravel API e Vue.js**
+- 🧠 Apaixonado por **Arquitetura de Software** e **Desenvolvimento de Sistemas**
+- 🌱 Sempre buscando aprender e evoluir
+- 📬 Contato: [gabriel.drbastos@gmail.com](mailto:gabriel.drbastos@gmail.com)
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -30,7 +32,6 @@
 
 <div align="center">
   <a href="https://github.com/GabrielDuarteRB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDuarteRB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDuarteRB&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
