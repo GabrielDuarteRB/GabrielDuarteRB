@@ -1,44 +1,27 @@
+<p align="right">
+  <a href="./README.pt-BR.md">🇧🇷 Português</a>
+</p>
+
 <h1 align="center">Gabriel Bastos 👨‍💻</h1>
-<p align="center">
-  Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo
-</p>
 
-### 💻 Sobre Mim
-- 🎓 Cursando **Sistemas de Informação**
-- 💼 Atuando com **PHP, MySQL, Laravel API e Vue.js**
-- 🧠 Apaixonado por **Arquitetura de Software** e **Desenvolvimento de Sistemas**
-- 🌱 Sempre buscando aprender e evoluir
-- 📬 Contato: [gabriel.drbastos@gmail.com](mailto:gabriel.drbastos@gmail.com)
+## About Me
+
+Full Stack developer with strong focus on backend development, system architecture, and building scalable, well-structured applications.
+1. 🎓 Information Systems student
+2. 💼 Main stack: PHP, Laravel, Nest.Js, MySQL, Vue.js, React.Js.
+3. 🧠 Interests: Software Architecture, APIs, System Design
+4. 📈 Continuous learning mindset
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
+Backend: PHP, Laravel, Nest.Js, MySQL, PostgreSQL
+Frontend: Vue.js, React, JavaScript, TypeScript
+Infra: Docker, Linux, Git
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/GabrielDuarteRB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDuarteRB&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
----
-
-### 📬 Contato
+## 📬 Contact
 
 <div align="center">
   <a href="mailto:gabriel.drbastos@gmail.com">
