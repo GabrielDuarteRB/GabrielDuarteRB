@@ -2,7 +2,7 @@
   <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
-<h1 >Gabriel Bastos 👨‍💻</h1>
+# Gabriel Bastos 👨‍💻
 
 ## About Me
 
