@@ -2,7 +2,7 @@
   <a href="./README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
-<h1 align="center">Gabriel Bastos 👨‍💻</h1>
+<h1 >Gabriel Bastos 👨‍💻</h1>
 
 ## About Me
 
@@ -23,7 +23,7 @@ Infra: Docker, Linux, Git
 
 ## 📬 Contact
 
-<div align="center">
+<div >
   <a href="mailto:gabriel.drbastos@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
