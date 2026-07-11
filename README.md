@@ -31,3 +31,11 @@ Infra: Docker, Linux, Git
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 📚 Publications & Research
+
+All academic papers, publications and research projects are available in my dedicated repository:
+
+➡️ [Research Repository](https://github.com/gabrielpaper)
