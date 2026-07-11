@@ -31,3 +31,11 @@ Desenvolvedor **Full Stack** com forte foco em **desenvolvimento backend**, **ar
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 🎓 Produção Acadêmica
+
+Neste repositório estão reunidos meus artigos científicos, trabalhos acadêmicos, pesquisas e demais contribuições relacionadas à área de Engenharia de Software e Tecnologia da Informação.
+
+➡️ [Acessar Repositório Acadêmico](https://github.com/gabrielpaper)
