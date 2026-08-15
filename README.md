@@ -16,6 +16,7 @@ Full Stack developer with strong focus on backend development, system architectu
 ## 🚀 Tech Stack
 
 Backend: PHP, Laravel, Nest.Js, MySQL, PostgreSQL
+
 Frontend: Vue.js, React, JavaScript, TypeScript
 Infra: Docker, Linux, Git
 
